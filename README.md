@@ -6,7 +6,7 @@
 
 ## Background and Education
 
-I graduated from  Helwan University with a degree in very good. My educational journey has equipped me with a solid foundation in mobile application, which I leverage in my professional endeavors.
+I graduated from  Helwan University with very good degree. My educational journey has equipped me with a solid foundation in mobile application, which I leverage in my professional endeavors.
 
 ## Professional Experience
 
