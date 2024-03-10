@@ -22,8 +22,9 @@ I bring 2 years of practical experience in the dynamic field of Flutter Developm
   - **API:**  RESTful API integration, , API Testing using postman, Firebase Cloud Messaging.
   - **Caching and Database:**  Hive, , SQflite, SharedPreferences.
   - **Animation:**  Implicit Animation, Explicit Animation.
-  - **Architicture pattern:**  MVVM.
-  - **Design Pattern:**  Singleton Pattern.
+  - **Architicture pattern:**  MVVM, Clean Arch.
+  - **Design Pattern:**  Singleton Pattern, Dependancy Injection, Factory, Bloc Pattern.
+  - **Crash Tracking** Firebase Crashlytics, Santry.
   - **Version Control**  Git.
 
 I have strong knowledge of OOP, Solid principles, Data Structure and Algoirthm.
@@ -35,6 +36,8 @@ My multifaceted passion drives me to continually explore and learn in various do
 
 ## Projects
 - [**ALQATAREYA ATTENDANCE MANAGEMENT**](https://github.com/MuhammedMohsen1/ALQATAREYA)
+- [**Jeras - Quran - Islamic Values**](https://play.google.com/store/apps/details?id=com.app.jeras&hl=en&gl=US)
+- [**Dream interpretation**](https://play.google.com/store/apps/details?id=com.abdulazizahmed.dream&hl=en&gl=US)
 - [**SAYCL**](https://github.com/MuhammedMohsen1/SAYCL)
 - [**ASWQM**](https://github.com/MuhammedMohsen1/graduation_app)
 - [**HORSE STATION**](https://github.com/ZeaadAyman74/Horse-Station)
