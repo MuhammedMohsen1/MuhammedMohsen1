@@ -10,14 +10,14 @@ I graduated from  Helwan University with very good degree. My educational journe
 
 ## Professional Experience
 
-I bring 2 years of practical experience in the dynamic field of Flutter Development. My expertise spans across:
+I bring 1 years of practical experience in the dynamic field of Flutter Development. My expertise spans across:
 
 - **Programming Languages:**  dart, PHP, python, C, C++, JavaScript
 - **Technologies:** Laravel, Flutter
 - **Database:** mySQl, SQL Server,Firebase NoSQL
 
 ## Flutter Skills
-  - **State Mangement:**  Cubit(Most used), Bloc.
+  - **State Mangement:**  Cubit, Bloc.
   - **Firebase:**  Firebase Authentication, Firebase Store, Firebase Storage, Firebase Cloud Messaging.
   - **API:**  RESTful API integration, , API Testing using postman, Firebase Cloud Messaging.
   - **Caching and Database:**  Hive, , SQflite, SharedPreferences.
