@@ -10,25 +10,16 @@ I graduated from  Helwan University with very good degree. My educational journe
 
 ## Professional Experience
 
-I bring 1 years of practical experience in the dynamic field of Flutter Development. My expertise spans across:
-
-- **Programming Languages:**  dart, PHP, python, C, C++, JavaScript
-- **Technologies:** Laravel, Flutter
-- **Database:** mySQl, SQL Server,Firebase NoSQL
+Certified Flutter developer with one year of experience specializing in cross-platform mobile app development.
+Proficient in creating robust and user-friendly applications with optimized UI/UX design.
 
 ## Flutter Skills
   - **State Mangement:**  Cubit, Bloc.
-  - **Firebase:**  Firebase Authentication, Firebase Store, Firebase Storage, Firebase Cloud Messaging.
-  - **API:**  RESTful API integration, , API Testing using postman, Firebase Cloud Messaging.
   - **Caching and Database:**  Hive, , SQflite, SharedPreferences.
   - **Animation:**  Implicit Animation, Explicit Animation.
   - **Architicture pattern:**  MVVM, Clean Arch.
-  - **Design Pattern:**  Singleton Pattern, Dependancy Injection, Factory, Bloc Pattern.
   - **Crash Tracking** Firebase Crashlytics, Santry.
   - **Version Control**  Git.
-
-I have strong knowledge of OOP, Solid principles, Data Structure and Algoirthm.
-I am good at using FVM (Flutter Version Mangement).
 
 ## Passion and Motivation
 
